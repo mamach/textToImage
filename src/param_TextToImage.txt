@@ -1,0 +1,7 @@
+IMAGE_FILE_INFORMATION
+width = 223
+height = 112
+Linux Plotting Tools
+red = 0
+green = 255
+blue = 255

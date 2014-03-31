@@ -1,0 +1,9 @@
+IMAGE_FILE_INFORMATION
+inputImagePath = /home/mahesh/data/PETS2000/Images/
+inputImageBaseName = test
+inputImageFormat = bmp
+imageStartNum = 127
+imageEndNum = 1451
+zeroPaddingFormatSize = 4
+maxZeroPaddingImgIndx = 999
+fileName = test.jpg

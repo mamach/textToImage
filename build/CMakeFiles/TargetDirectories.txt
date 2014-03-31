@@ -1,0 +1,2 @@
+/home/mahesh/Desktop/researchGate/Projects/textToImage/build/src/CMakeFiles/Misc.dir
+/home/mahesh/Desktop/researchGate/Projects/textToImage/build/src/CMakeFiles/textToImage.dir

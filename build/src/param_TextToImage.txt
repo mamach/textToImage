@@ -1,0 +1,7 @@
+IMAGE_FILE_INFORMATION
+width = 223
+height = 112
+red = 20
+green = 20
+blue = 40
+Doxygen

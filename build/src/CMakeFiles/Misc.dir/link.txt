@@ -1,0 +1,2 @@
+/usr/bin/ar cr libMisc.a  CMakeFiles/Misc.dir/Misc.cpp.o
+/usr/bin/ranlib libMisc.a
